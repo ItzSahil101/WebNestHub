@@ -1,0 +1,65 @@
+[
+    {
+        "title": "News Website",
+        "description": "A platform where ayone can see news of various topic and they can create their account and post their news and other features",
+        "url": "news-boys.vercel.app",
+        "gmail": "sahiljogi2066@gmail.com",
+        "insta": "https://www.instagram.com/web.nest.hub/",
+        "price": "$33",
+        "pic": "https://cdn1.vectorstock.com/i/1000x1000/19/65/online-news-and-information-website-concept-vector-32821965.jpg"
+    },
+    {
+        "title": "Build personal website",
+        "description": "Contact me if you want to build landing page or other type of website in your budget",
+        "url": "itxsahil.netlify.app",
+        "gmail": "sahiljogi2066@gmail.com",
+        "insta": "https://www.instagram.com/web.nest.hub/",
+        "price": "$15-$100",
+        "pic": "https://th.bing.com/th/id/OIP.r-yPtDfUMX0PzN_ZDYuLLQHaD7?w=285&h=180&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+        "title": "Anime Det Website",
+        "description": "A website from where user can see latest/upcoming or search website and see details",
+        "url": "anime-versee.netlify.app",
+        "gmail": "sahiljogi2066@gmail.com",
+        "insta": "https://www.instagram.com/web.nest.hub/",
+        "price": "$20",
+        "pic": "https://th.bing.com/th/id/OIP.gNFY75PO6vO1bblYggPSKAHaEo?rs=1&pid=ImgDetMain"
+    },
+    {
+        "title": "QR Generator",
+        "description": "A Website from where user can create custom qr code and download it",
+        "url": "qrgenxyz.netlify.app",
+        "gmail": "sahiljogi2066@gmail.com",
+        "insta": "https://www.instagram.com/web.nest.hub/",
+        "price": "$5",
+        "pic": "https://th.bing.com/th/id/R.2faaa1dc5130a764a79921ead54ae6d4?rik=PstWk105HU6G8g&pid=ImgRaw&r=0"
+    },
+    {
+        "title": "Startexx",
+        "description": "A Platform from where user can create there id and post there idea and can find partner for startup easily",
+        "url": "Startexx.vercel.app",
+        "gmail": "sahiljogi2066@gmail.com",
+        "insta": "https://www.instagram.com/web.nest.hub/",
+        "price": "$30",
+        "pic": "https://th.bing.com/th/id/OIP.NzjwqG-ptK8aaAuQSA_lJgHaE7?w=246&h=180&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+        "title": "Rock Paper & Scissor",
+        "description": "A website where you can play rock paper scissor game against computer bot",
+        "url": "rps-gamez.verel.app",
+        "gmail": "sahiljogi2066@gmail.com",
+        "insta": "https://www.instagram.com/web.nest.hub/",
+        "price": "$19",
+        "pic": "https://th.bing.com/th?id=OIP.JeFTt50ZqeYDQAhB_1Ra2wHaFj&w=288&h=216&c=8&rs=1&qlt=90&r=0&o=6&pid=3.1&rm=2"
+    },
+    {
+        "title": "Cant No",
+        "description": "A website where there asked a question and you cant click no you must click yes",
+        "url": "spzques.vercel.app",
+        "gmail": "sahiljogi2066@gmail.com",
+        "insta": "https://www.instagram.com/web.nest.hub/",
+        "price": "$9",
+        "pic": "https://th.bing.com/th/id/OIP.tVPT3UsUuLZciAWojB7aZgAAAA?rs=1&pid=ImgDetMain"
+    }
+]

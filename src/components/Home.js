@@ -123,7 +123,7 @@ const Main = () => {
               alt={item.title}
               style={cardImageStyle}
             />
-            <h4 style={{color: "blue"}}>Available</h4>
+            <h4 style={{color: "green"}}>available</h4>
             <h3>{item.title}</h3>
             <p>{item.description}</p>
             <p style={{ fontWeight: "800", color: "Highlight" }}>
